@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://snjtsam.github.io/csb-iswt5g/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://snjtsam.github.io/csb-iswt5g/static/js/main.c68d9e5e.chunk.js",
+    "main.js.map": "https://snjtsam.github.io/csb-iswt5g/static/js/main.c68d9e5e.chunk.js.map",
+    "runtime-main.js": "https://snjtsam.github.io/csb-iswt5g/static/js/runtime-main.7b6fe805.js",
+    "runtime-main.js.map": "https://snjtsam.github.io/csb-iswt5g/static/js/runtime-main.7b6fe805.js.map",
+    "static/js/2.00fcc2e3.chunk.js": "https://snjtsam.github.io/csb-iswt5g/static/js/2.00fcc2e3.chunk.js",
+    "static/js/2.00fcc2e3.chunk.js.map": "https://snjtsam.github.io/csb-iswt5g/static/js/2.00fcc2e3.chunk.js.map",
+    "index.html": "https://snjtsam.github.io/csb-iswt5g/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://snjtsam.github.io/csb-iswt5g/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.00fcc2e3.chunk.js.LICENSE.txt": "https://snjtsam.github.io/csb-iswt5g/static/js/2.00fcc2e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6fe805.js",
+    "static/js/2.00fcc2e3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c68d9e5e.chunk.js"
+  ]
+}
